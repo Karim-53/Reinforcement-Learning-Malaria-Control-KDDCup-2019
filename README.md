@@ -13,12 +13,12 @@ These solutions were created by Lols team (ranked 7)
 These solutions are based on Bayesian Optimisation techniques (Upper bound confidence) (todo add link to the original repo)
 
 <p align="center">
-<figure>
+<figure style="width:25%;float:left;margin:0px;text-align:center;padding:0px;">
   <img width="280" src="https://github.com/Karim-53/Reinforcement-Learning-Malaria-Control-KDDCup-2019/blob/master/include/y1.png">
   <figcaption>Fig.1 - Reward distribution for Year 1 (1600 points used)</figcaption>
 </figure>
 
-<figure>
+<figure style="width:25%;float:left;margin:0px;text-align:center;padding:0px;">
   <img width="300" src="https://github.com/Karim-53/Reinforcement-Learning-Malaria-Control-KDDCup-2019/blob/master/include/y1_BO.png">
   <figcaption>Fig.2 - Reward estimation using Bayesian Optimisation (89 points used)</figcaption>
 </figure>
