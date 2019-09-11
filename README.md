@@ -13,8 +13,8 @@ These solutions were created by Lols team (ranked 7)
 These solutions are based on Bayesian Optimisation techniques (Upper bound confidence) (todo add link to the original repo)
 
 <p align="center">
-  <img src="https://github.com/Karim-53/Reinforcement-Learning-Malaria-Control-KDDCup-2019/blob/master/include/y1.png">
-  <img src="https://github.com/Karim-53/Reinforcement-Learning-Malaria-Control-KDDCup-2019/blob/master/include/y1_BO.png">
+  <img width="300" src="https://github.com/Karim-53/Reinforcement-Learning-Malaria-Control-KDDCup-2019/blob/master/include/y1.png">
+  <img width="300" src="https://github.com/Karim-53/Reinforcement-Learning-Malaria-Control-KDDCup-2019/blob/master/include/y1_BO.png">
 </p>
 
 the 3 most important solutions are:
